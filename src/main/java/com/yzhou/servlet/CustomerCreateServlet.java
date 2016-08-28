@@ -1,4 +1,4 @@
-package com.yzhou;
+package com.yzhou.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

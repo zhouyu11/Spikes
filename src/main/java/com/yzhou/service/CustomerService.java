@@ -1,6 +1,6 @@
 package com.yzhou.service;
 
-import com.yzhou.Customer;
+import com.yzhou.model.Customer;
 import com.yzhou.utils.PropsUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.yzhou;
+package com.yzhou.model;
 
 public class Customer {
     private long id;

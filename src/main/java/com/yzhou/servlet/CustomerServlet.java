@@ -1,5 +1,6 @@
-package com.yzhou;
+package com.yzhou.servlet;
 
+import com.yzhou.model.Customer;
 import com.yzhou.service.CustomerService;
 
 import javax.servlet.ServletException;
