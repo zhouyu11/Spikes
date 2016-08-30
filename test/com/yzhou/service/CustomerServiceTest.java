@@ -1,6 +1,6 @@
 package com.yzhou.service;
 
-import com.yzhou.Customer;
+import com.yzhou.model.Customer;
 import org.junit.Test;
 
 import java.util.List;
